@@ -1,0 +1,8 @@
+﻿## Senaryo
+#Kahve dukkanlari icin musteri yonetimi yapan bir sistem yazmak istiyoruz
+#Starbucks ve Nero Firmasi icin calisiyoruz
+#Iki firma da misterilerini veri tabanina kaydetmek istiyor
+Starbucks musterileri kaydederken, mutlaka mernis dogrulamasi istiyor. Nero musterileri kaydederken boyle bir sey istemiyor
+#Starbucks musteriler icin her kahve aliminda yildiz kazandirmak istiyor
+
+## Bu bir Consol uygulamasidir!
