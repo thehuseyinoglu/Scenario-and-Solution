@@ -11,7 +11,7 @@ namespace Project1
         {
            BaseCustomerManager customerManager= new NeroCustomerManager() ;
             customerManager.Save(new Customer { DateOfBirth = new DateTime(1998,7,16), FirstName="Berkay",LastName="Huseyinoglu", NationalityId="123123123132" });
-
+            
         }
     }
 }
